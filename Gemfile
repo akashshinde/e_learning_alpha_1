@@ -31,7 +31,13 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 
 gem 'mime-types'
-gem 'sqlite3', '= 1.3.8'
+
+
+gem 'sqlite3', :group => [:development, :test]
+group :production do
+  gem 'thin'
+  gem 'pg'
+end
 
 
 group :doc do
