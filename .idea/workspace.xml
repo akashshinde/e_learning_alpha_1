@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1ffa242-4d77-4357-885a-fcf50f674e72" name="Default" comment="" />
+    <list default="true" id="c1ffa242-4d77-4357-885a-fcf50f674e72" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+    </list>
     <ignored path="e-learning.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Gemfile" changelist="c1ffa242-4d77-4357-885a-fcf50f674e72" time="1386329112412" ignored="false" />
+    <file path="/Gemfile" changelist="c1ffa242-4d77-4357-885a-fcf50f674e72" time="1386329268001" ignored="false" />
     <file path="/Dummy.txt" changelist="c1ffa242-4d77-4357-885a-fcf50f674e72" time="1386328061694" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +30,7 @@
       <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="13" selection-start="883" selection-end="883" vertical-scroll-proportion="0.71018654">
+            <state line="6" column="1" selection-start="166" selection-end="166" vertical-scroll-proportion="0.12912482">
               <folding />
             </state>
           </provider>
@@ -492,7 +494,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="13" selection-start="883" selection-end="883" vertical-scroll-proportion="0.71018654">
+        <state line="6" column="1" selection-start="166" selection-end="166" vertical-scroll-proportion="0.12912482">
           <folding />
         </state>
       </provider>
