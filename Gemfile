@@ -1,4 +1,4 @@
-#source 'https://rubygems.org'
+source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 
+gem 'mime-types'
 
 
 group :doc do

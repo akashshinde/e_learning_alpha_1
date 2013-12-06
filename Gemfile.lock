@@ -1,4 +1,5 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     actionmailer (4.0.1)
       actionpack (= 4.0.1)
@@ -125,6 +126,7 @@ DEPENDENCIES
   devise
   jbuilder (~> 1.2)
   jquery-rails
+  mime-types
   rails (= 4.0.1)
   sass-rails (~> 4.0.0)
   sdoc
