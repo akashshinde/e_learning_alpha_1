@@ -31,6 +31,7 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 
 gem 'mime-types'
+gem 'sqlite3'
 
 
 group :doc do
